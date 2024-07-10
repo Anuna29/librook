@@ -124,6 +124,18 @@ body {
   justify-content: center;
   padding: 32px;
 }
+.scrollable-items1 {
+  width: 519px;
+  height: 773.32px;
+  background-color: transparent;
+  color: #FFFFFF;
+  border: 2px solid white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 32px;
+
+}
 
 .scrollable-items-text {
   height: 240px;
